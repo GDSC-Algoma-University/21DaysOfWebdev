@@ -1,38 +1,41 @@
-# 100DaysOfCode
+# 21DaysOfWebdev
+
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRinatValiullov%2F100DaysOfCode.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRinatValiullov%2F100DaysOfCode?ref=badge_shield)
 
-## My 100DaysOfCode process of learning web development
+## My 21DaysOfWebdev process of learning web development
 
 ### **The recommended day-by-day activities are as follows:**
 
-- Days 1–8: [HTML](#HTML)
-- Days 9–16: [CSS](#CSS)
-- Days 17–24: [JavaScript](#JavaScript)
-- Days 25–27: [jQuery](#jQuery)
-- Days 28–33: [Responsive Web Design](#Responsive-Web-Design)
-- Days 34–36: Accessibility
-- Days 37–39: [Git](#Git)
-- Days 40–44: [Node and NPM](#Node-and-NPM)
-- Days 45–50: Sass
-- Days 51–54: Bootstrap
-- Day 55: BEM
-- Days 57–61: [Gulp](#Gulp)
-- Days 62–65: [Webpack](#Webpack)
-- Day 66: ESLint
-- Days 68–83: [React](#React)
-- Days 84–89: Redux
-- Days 90–94: [Jest](#Jest)
-- Days 95–97: [TypeScript](#TypeScript)
-- Days 98–100: NextJS
+- 1: [HTML](#HTML)
+- 2: [CSS](#CSS)
+- 3: [JavaScript](#JavaScript)
+- 4: [jQuery](#jQuery)
+- 5: [Responsive Web Design](#Responsive-Web-Design)
+- 6: Accessibility
+- 7: [Git](#Git)
+- 8: [Node and NPM](#Node-and-NPM)
+- 9: Sass
+- 10: Bootstrap
+- 11: BEM
+- 12: [Gulp](#Gulp)
+- 13: [Webpack](#Webpack)
+- 14: ESLint
+- 15: [React](#React)
+- 16: Redux
+- 17: [Jest](#Jest)
+- 18: [TypeScript](#TypeScript)
+- 19: NextJS
 
 ### **Extra activities:**
 
-- Days 100-120: [Vue](#Vue)
-- Days 120-140: [Angular](#Angular)
-- Days 140-160: [Markdown](#Markdown)
-- Days 140-160: [UI-UX](#UI-UX)
+- Days 20: [Vue](#Vue)
+- Days 21: [Angular](#Angular)
+
+
+- Days ex22: [Markdown](#Markdown)
+- Days ex23: [UI-UX](#UI-UX)
 
 ### [HTML](html)
 
