@@ -41,9 +41,10 @@
 
 Projects:
 
-- [custom-elements](html/custom-elements)
+- [HTML Basic](https://www.w3schools.com/html/default.asp)
+- [HTML Projects](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/)
 
-[Back &#8679;](#100daysofcode)
+[Back &#8679;](#21)
 
 ### [CSS](css)
 
@@ -370,7 +371,8 @@ Projects:
 
 [Back &#8679;](#100daysofcode)
 
-Thanks for article to [**Nick Scialli**](https://twitter.com/nas5w) - [A Timeboxed, Day-by-Day #100DaysOfCode Front-End
+Thanks for article to [**Nick Scialli**](
+s://twitter.com/nas5w) - [A Timeboxed, Day-by-Day #100DaysOfCode Front-End
 Development Curriculum](https://levelup.gitconnected.com/a-100daysofcode-timeboxed-front-end-development-curriculum-cb4b6c2081c2)
 
 
