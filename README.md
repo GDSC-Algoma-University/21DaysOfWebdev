@@ -44,6 +44,18 @@ Projects:
 - [HTML Basic](https://www.w3schools.com/html/default.asp)
 - [HTML Projects](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/)
 
+- [A Tribute Page](https://www.codeseek.co/preview/womJzx)
+- [Webpage Including Form](https://codepen.io/gregg50/pen/QWwOVKV)
+- [Parallax Website](https://jolly-kalam-23776e.netlify.com/parallaxsite/)
+- [Landing Page](https://jolly-kalam-23776e.netlify.com/fullscreenlanding/)
+- [Restaurant Website](https://jolly-kalam-23776e.netlify.com/restaurantwebsite/)
+- [An Event or Conference Webpage](https://jolly-kalam-23776e.netlify.com/styledconferences/)
+- [Music Store Page](https://jolly-kalam-23776e.netlify.com/mytunes/)
+- [Photography Site](https://jolly-kalam-23776e.netlify.com/photographysite/#images)
+- [Personal Portfolio](https://codepen.io/freeCodeCamp/full/zNBOYG)
+- [Technical Documentation](https://codepen.io/freeCodeCamp/full/NdrKKL)
+
+
 [Back &#8679;](#21)
 
 ### [CSS](css)
